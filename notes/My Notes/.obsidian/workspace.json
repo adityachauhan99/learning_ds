@@ -4,189 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "fe2c9bc2e9965e3a",
+        "id": "ea7e0571eead947f",
         "type": "tabs",
         "children": [
           {
-            "id": "a1910946e72ac74a",
+            "id": "2c3fe274973392f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-basic-knowledge-python.md",
+                "file": "Complete-Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-basic-knowledge-python"
-            }
-          },
-          {
-            "id": "5e10a026eab35b4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-string-operations-python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02-string-operations-python"
-            }
-          },
-          {
-            "id": "7a92db60e71b1238",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-arithmetic-operators-python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03-arithmetic-operators-python"
-            }
-          },
-          {
-            "id": "2b3924f9c8a18d0f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "fef71a059d9a9dc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-roman-numerals-python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06-roman-numerals-python"
-            }
-          },
-          {
-            "id": "29e17cdc0bf3afa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07-list-compression-python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07-list-compression-python"
-            }
-          },
-          {
-            "id": "a7c75d50a9beb06f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08-lambda-functions-python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08-lambda-functions-python"
-            }
-          },
-          {
-            "id": "9750e5bfd877488b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09-map-filter-reduce-python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09-map-filter-reduce-python"
-            }
-          },
-          {
-            "id": "3407a3db10b42c6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10-sorted-function-python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10-sorted-function-python"
-            }
-          },
-          {
-            "id": "96795b5e87876536",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11-star-splat-python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11-star-splat-python"
-            }
-          },
-          {
-            "id": "4d8f4d14e14fce96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12-dictionaries-python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12-dictionaries-python"
-            }
-          },
-          {
-            "id": "e78c268746eeecc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "roman-numerals-python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "roman-numerals-python"
-            }
-          },
-          {
-            "id": "93ed26019365f60a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-function-python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04-function-python"
+              "title": "Complete-Python"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -350,19 +185,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "4d8f4d14e14fce96",
+  "active": "2c3fe274973392f5",
   "lastOpenFiles": [
+    "04-function-python.md",
     "11-star-splat-python.md",
-    "12-dictionaries-python.md",
     "10-sorted-function-python.md",
     "09-map-filter-reduce-python.md",
     "08-lambda-functions-python.md",
     "07-list-compression-python.md",
-    "06-roman-numerals-python.md",
     "Complete-Python.md",
+    "12-dictionaries-python.md",
+    "06-roman-numerals-python.md",
     "05-regex-python.md",
     "01-basic-knowledge-python.md",
-    "04-function-python.md",
     "03-arithmetic-operators-python.md",
     "02-string-operations-python.md",
     "create a link.md",
