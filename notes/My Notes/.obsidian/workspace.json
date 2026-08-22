@@ -116,6 +116,20 @@
             }
           },
           {
+            "id": "3407a3db10b42c6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10-sorted-function-python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10-sorted-function-python"
+            }
+          },
+          {
             "id": "e78c268746eeecc4",
             "type": "leaf",
             "state": {
@@ -144,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -308,10 +322,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "9750e5bfd877488b",
+  "active": "3407a3db10b42c6f",
   "lastOpenFiles": [
-    "08-lambda-functions-python.md",
     "09-map-filter-reduce-python.md",
+    "10-sorted-function-python.md",
+    "08-lambda-functions-python.md",
     "07-list-compression-python.md",
     "06-roman-numerals-python.md",
     "Complete-Python.md",
