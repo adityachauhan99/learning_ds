@@ -14,9 +14,9 @@ Documenting my daily study, code, and projects as I learn data science for an **
 Check items off as you complete them — GitHub renders these as clickable boxes.
 
 ### STEP 1: Programming & Git Basics
-- [ ] Python fundamentals (data types, control flow, functions, OOP, comprehensions)
-- [ ] Git & GitHub (commit, branch, push/pull, PRs)
-- [ ] **Checkpoint:** Write a Python script with functions/loops and push to GitHub
+- [X] Python fundamentals (data types, control flow, functions, OOP, comprehensions)
+- [X] Git & GitHub (commit, branch, push/pull, PRs)
+- [X] **Checkpoint:** Write a Python script with functions/loops and push to GitHub
 
 ### STEP 2: Math & Stats Foundations
 - [ ] Linear algebra: vectors, matrices, dot products
