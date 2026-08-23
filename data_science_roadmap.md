@@ -10,13 +10,13 @@ Each step lists **what to learn**, **tools to get hands-on with**, and a **check
 *(1-2 weeks)*
 
 **Learn:**
-- [ ] Python fundamentals: data types, control flow, functions, OOP basics, list/dict comprehensions
-- [ ] Git & GitHub: commit, branch, push/pull, pull requests
+- [X] Python fundamentals: data types, control flow, functions, OOP basics, list/dict comprehensions
+- [X] Git & GitHub: commit, branch, push/pull, pull requests
 
 **Tools:**
-- [ ] Python (via Anaconda or plain pip + venv)
-- [ ] Jupyter Notebook / Google Colab
-- [ ] Git + GitHub account
+- [X] Python (via Anaconda or plain pip + venv)
+- [X] Jupyter Notebook / Google Colab
+- [X] Git + GitHub account
 
 **Checkpoint:** You can write a Python script with functions and loops from scratch, and push it to a GitHub repo.
 

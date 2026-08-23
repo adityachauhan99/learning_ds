@@ -10,4 +10,16 @@ replace : string.replace("Value which you want to replace", "The new replaced va
 
 check for presence : "sub string" ==in== name_of_the_string
 
+a="This is a string"
+a=a.split(" ")    # splits the string after each space , makes a list of strings 
+a="-".join(a)    # adds the strings back with "-" between them
+
+
+isalnum() - alpha numeric
+isalpha() - alphabet
+isdigit() - numbers 
+islower() - lowercase
+isupper() - uppercase 
+
+
 
